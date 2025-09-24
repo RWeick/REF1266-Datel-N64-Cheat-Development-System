@@ -7,4 +7,4 @@ Brought back from the edge of extinction, this is the predecessor to the N64 Gam
 
 PCB Thickness: 1.2 mm
 
-![image](https://github.com/Modman/N64-Gameshark-Pro-REF1329/blob/main/REF1329-GS.png)
+![image](https://github.com/RWeick/REF1266-Datel-N64-Cheat-Development-System/blob/main/REF1266.png)
